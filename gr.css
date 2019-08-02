@@ -1,0 +1,23 @@
+body
+{
+  background-image:url("https://www.travelrepublic.co.uk/blog/wp-content/uploads/2018/11/GreatWallOfChina-TravelRepublic-iStock-506393198.jpg" );
+}
+p{
+  font-size:20px;
+  text-align:justify;
+  padding-left:95px;
+  padding-right:95px;
+  padding-bottom:60px;
+  line-height:30px;
+  font-family:sans-serif;
+}
+h1{
+  font-size:50px;
+  text-align:center;
+  
+}
+iframe
+{
+  margin-left:315px;
+  background-color:pink;
+}

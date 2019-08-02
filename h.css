@@ -1,0 +1,54 @@
+.inputbox{
+  Font-size:20px;
+Padding-top:10px;
+Margin-Bottom:3px;
+  Margin-top:38px;
+Border-Top: 0;
+  Border-left: 0;
+  Border-right: 0;
+Border-Bottom:2px solid black;
+  width:60%;
+ }
+h1
+{
+  padding-top:56px;
+  padding-bottom:32px;
+  font-size:80px;
+  text-align:center;
+  font-family: 'Niconne', cursive;
+  color:mediumblue;
+
+}
+#button
+{
+  background-color:#0056ff;
+  color:white;
+  padding-top:17px;
+  padding-bottom:17px;
+  padding-left:24px;
+  padding-right:24px;
+  border:none;
+  font-size:19px;
+  margin-bottom:90px;
+  margin-left:700px;
+  margin-top:50px;
+}
+#button:hover
+{
+background-color:red;
+padding:29px;
+}
+body
+{
+  background-image:url(https://image.freepik.com/free-psd/abstract-background-design_1297-73.jpg);
+  background-size: 1200px 800px;
+}
+#form
+{
+  background-color:;
+  margin-left:auto;
+  margin-bottom:20px;
+  margin-right:auto;
+  width:60%;
+  text-align:center;
+}

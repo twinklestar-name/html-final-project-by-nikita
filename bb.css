@@ -1,0 +1,25 @@
+body
+{
+  background-image:url("http://www.witzkeartists.com/wp-content/uploads/2018/09/travel-options-1024x463.jpg");
+  background-size:900px 500px;
+}
+h1
+{
+  font-size:90px;
+  color:black;
+  margin-left: 400px;
+  margin-top:450px;
+  font-family: 'Clicker Script', cursive;
+
+}
+.span
+{
+  padding:40px;
+  font-size:28px;
+  color:brown;
+  text-decoration:none;
+}
+#topbar
+{
+  background-color:blue;
+}

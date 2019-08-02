@@ -1,0 +1,23 @@
+body
+{
+  background-image:url("https://expl-media.azureedge.net/mediacontainer/medialibraries/explore/explore-media/blogs/june%202012/chichen-itza,-mexico.jpg?ext=.jpg" );
+  background-size:1200px 800px;
+}
+p{
+  font-size:20px;
+  text-align:justify;
+  padding-left:95px;
+  padding-right:95px;
+  padding-bottom:60px;
+  line-height:30px;
+  font-family:sans-serif;
+}
+h1{
+  font-size:40px;
+  text-align: center;
+}
+iframe
+{
+  margin-left:315px;
+  background-color:pink;
+}

@@ -1,0 +1,25 @@
+body
+{
+  background-image:url("https://guidester.wpengine.com/wp-content/uploads/2215339300_7839cd7dea_b-1024x768.jpg" );
+  background-size:1200px 800px;
+}
+h1
+{
+  text-align:center;
+  font-size:40px;
+}
+p
+{
+  font-size:20px;
+  text-align:justify;
+  padding-left:95px;
+  padding-right:95px;
+  padding-bottom:60px;
+  line-height:30px;
+  font-family:sans-serif;
+}
+iframe
+{
+  margin-left:315px;
+  background-color:pink;
+}

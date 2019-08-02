@@ -1,0 +1,24 @@
+body
+{
+  background-image:url("https://www.telegraph.co.uk/content/dam/Travel/2017/December/mil%20cover-xlarge.jpg" );
+  background-size:1200px 800px;
+}
+h1{
+  font-size: 90px;
+  color:crimson;
+  font-family: 'Qwigley', cursive;
+  margin-left:100px;
+}
+a{
+  border:2px solid blue;
+  width:400px;
+  text-decoration: none;
+  margin-left:1300px;
+  margin-top:50px;
+  border-radius:35px;
+  background-color:darkblue;
+  font-size:30px;
+  font-family: 'Aref Ruqaa', serif;
+  padding:20px;
+  color:white;
+}
