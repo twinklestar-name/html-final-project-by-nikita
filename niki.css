@@ -7,6 +7,10 @@ h1{
 body{
   background-color:lightcoral;
 }
+.inline
+{
+  display: inline-block;
+}
 
 table
 {
@@ -21,11 +25,11 @@ table
 }
 .imgrow2
 {
-  width:400px;
+  width:470px;
   height:350px;
 }
 .imgsizea
 {
-  width:550px;
+  width:700px;
   height:400px;
 }
